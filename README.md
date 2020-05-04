@@ -1,0 +1,2 @@
+# bizimkiler
+GitHub Pages
